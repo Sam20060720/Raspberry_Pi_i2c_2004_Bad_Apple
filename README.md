@@ -7,9 +7,9 @@
 
 Demo:
 
-| 20x4 | https://youtu.be/BFyd2hqgJzY |
+| 20x16 | https://youtu.be/GQvvPxIW_Ng |
 | ------------ | ------------ |
-| 40x32 | https://youtu.be/GQvvPxIW_Ng |
+| 40x32 | https://youtu.be/BFyd2hqgJzY |
 
 
 ------------
