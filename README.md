@@ -28,7 +28,7 @@ Demo:
 
 **依賴:**
 
-| rpi-lcd | `pip3 install rpi-lcd`  |
+| RPLCD | `pip3 install RPLCD`  |
 | ------------ | ------------ |
 | opencv | `pip3 install opencv-python` |
 
